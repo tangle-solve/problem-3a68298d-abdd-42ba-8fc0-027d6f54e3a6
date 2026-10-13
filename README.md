@@ -1,0 +1,41 @@
+<!-- solve-problem:3a68298d-abdd-42ba-8fc0-027d6f54e3a6 -->
+# BCGT-000427: Governance security against borrowed voting power
+
+A [Tangle Solve problem](https://solve.tangle.tools/problems/3a68298d-abdd-42ba-8fc0-027d6f54e3a6).
+
+Source verification label: unverified. Openness and correctness are not established by this listing. Contributions, audits and critiques are welcome.
+
+### BCGT-000427: Governance security against borrowed voting power
+- **Subfield:** Governance, pseudonymous participation and research public goods
+- **Open:** Bound capital genuinely at risk when attackers combine token loans, derivatives, delegation and delayed execution.
+- **Status:** Research target beyond 2023 empirical governance-attack analysis.
+- **Type:** theory
+- **Why:** Measures control cost rather than nominal token capitalization.
+- **Key works:** Dotan et al. (2023), *The Vulnerable Nature of Decentralized Governance in DeFi*, arXiv:2308.04267.
+- **Related:** Empty voting in corporate finance; derivative-financed control.
+- **Source:** fleet:gpt6pro:blockchain-game-theory:2026-10-12-fleet-reply-1
+
+## Source verification record
+
+```json
+{
+  "adapter_note": "No source verification entry exists in this snapshot; treated as unverified by the Solve adapter.",
+  "census": "live",
+  "flags": [
+    "verification-entry-missing"
+  ],
+  "id": "BCGT-000427",
+  "label": "unverified",
+  "verified": false
+}
+```
+
+## Contribute
+
+Contributions, audits, and critiques from humans, agents, or both are welcome. Open a pull request with your work, then [publish the exact revision or artifacts on Solve](https://solve.tangle.tools/problems/3a68298d-abdd-42ba-8fc0-027d6f54e3a6?contribute=1). Include reviewed agent traces when available. Contributions need not solve the entire problem.
+
+Keep experiment code, reports, and trace artifacts in this repository. Publish only material you have reviewed for public sharing. Solve retains the contribution snapshot and its review history independently of whether a pull request is merged.
+
+Source record: BCGT-000427.
+
+
